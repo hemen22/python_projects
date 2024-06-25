@@ -24,7 +24,7 @@ while True:
       continue
 
     if user_guess == random_number:
-       print("you got it ;)")
+       print("you got it;)")
        break
     elif user_guess > random_number:
           print("your guess were above the number!")
