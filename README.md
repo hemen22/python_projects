@@ -15,3 +15,9 @@ Simulating coin flips or dice rolls in games.
 Shuffling elements in a list to randomize order.
 Selecting random samples from a dataset for analysis.
 Creating unpredictable behavior in artificial intelligence or machine learning algorithms.
+
+## rock paper scissors game
+
+rock :0
+paper : 1
+scissors: 2
