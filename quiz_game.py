@@ -33,5 +33,5 @@ if answer.lower() == "power supply unit":
 else:
     print('incorrect!')
 
-print("You got " + str(score) +" questions correct!") # use space after got and before question to have a space in the output
+print("You got " + str(score) +" questions correct !") # use space after got and before question to have a space in the output
 print("You got " + str((score/4)*100) +"%.")
